@@ -1,6 +1,6 @@
 ## 👩‍💻 Denise Behrmann | Data Analyst & Cybersecurity Learner
 
-Greetings, I'm Denise — a German based in Ireland since 2011. I have a background in science and QA testing, with experience leading data evaluation teams and working across industries. I recently completed the Google Data Analytics Certificate and created a full R case study using Fitbit data. Now I'm diving into cybersecurity, with a focus on penetration testing and digital forensics.
+Greetings, I'm Denise — originally from Gemany based in Ireland since 2011. I have a background in science and QA testing, with experience leading data evaluation teams and working across industries. I recently completed the Google Data Analytics Certificate and created a full R case study using Fitbit data. Now I'm diving into cybersecurity, with a focus on penetration testing and digital forensics.
 
 I’m building a tech-focused career and portfolio that reflect my analytical mindset and love of hands-on learning. I’m especially interested in remote work (partly so I can care for my chronically ill cat 🐾).
 

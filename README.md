@@ -20,9 +20,6 @@ I’m building a tech-focused career and portfolio that reflect my analytical mi
 **Data & Analysis**  
 `SQL` · `Excel` · `Google Sheets` · `Tableau` · `R` · `ggplot2` · `dplyr`
 
-**Cybersecurity (Learning)**  
-`Linux` · `Wireshark` · `TryHackMe Labs` · `Blue Teaming`
-
 **Soft Skills**  
 Analytical · Self-directed · Team leadership · Bilingual (German & English)
 

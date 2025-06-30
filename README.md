@@ -9,7 +9,7 @@ I’m building a tech-focused career and portfolio that reflect my analytical mi
 ## 💡 About Me
 - 🎓 Background in pharmaceutical science, QA game testing, and data analysis
 - 🧪 Former team lead for Google project via CPL (data evaluation)
-- 💻 Now focused on completing CompTIA Network+ Certification
+- 💻 Now focused on gaining cybersecurity skills
 - 🐱 Remote-work advocate & full-time cat caretaker
 - 🎮 Into Soulslike games, black metal, and horror films
 
@@ -38,7 +38,7 @@ Analytical · Self-directed · Team leadership · Bilingual (German & English)
 
 ## 📜 Certificates
 - ✅ Google Data Analytics Professional Certificate (2025)
-- 🔐 In Progress: Security Analyst course (SOC & Blue Team focus)
+- 🔐 In Progress: CompTIA Network+
 
 ---
 
@@ -50,6 +50,6 @@ Analytical · Self-directed · Team leadership · Bilingual (German & English)
 ---
 
 ## 🖤 Theme & Extras
-This portfolio uses a **dark theme** and Markdown formatting to reflect my personal style. For a clean visual version, check out my [pagedown CV here](https://github.com/DeniseBehrmann/denise-cv). 🎨
+This portfolio uses a **dark theme** and Markdown formatting to reflect my personal style. For a clean visual version, check out my [pagedown CV here](https://denisebehrmann.github.io/Denise_CV/). 🎨
 
 ---

@@ -27,7 +27,7 @@ Analytical · Self-directed · Team leadership · Bilingual (German & English)
 
 ## 📁 Portfolio Projects
 
-### 🔹 [Fitbit Case Study] (https://rpubs.com/H_exe/1326257)
+### 🔹 [Fitbit Case Study](https://rpubs.com/H_exe/1326257)
 *Fictional data analysis project built in R using Kaggle’s Fitbit dataset.*  
 - Data cleaning and transformation with `dplyr`
 - Visualized patterns using `ggplot2`

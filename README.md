@@ -44,12 +44,12 @@ Analytical · Self-directed · Team leadership · Bilingual (German & English)
 
 ## 📫 Contact Me
 - 📧 Email: denisebehrmann88@gmail.com  
-- 🌐 GitHub: [@witc-h-exe](https://github.com/witc-h-exe)  
+- 🌐 GitHub: [@DeniseBehrmann](https://github.com/DeniseBehrmann)  
 - 💼 LinkedIn: [www.linkedin.com/in/denise-behrmann-02624864](www.linkedin.com/in/denise-behrmann-02624864)
 
 ---
 
 ## 🖤 Theme & Extras
-This portfolio uses a **dark theme** and Markdown formatting to reflect my personal style. For a clean visual version, check out my [pagedown CV here](https://github.com/YOURUSERNAME/denise-cv). 🎨
+This portfolio uses a **dark theme** and Markdown formatting to reflect my personal style. For a clean visual version, check out my [pagedown CV here](https://github.com/DeniseBehrmann/denise-cv). 🎨
 
 ---

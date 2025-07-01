@@ -33,6 +33,8 @@ Analytical · Self-directed · Team leadership · Bilingual (German & English)
 - Visualized patterns using `ggplot2`
 - Insights into daily steps, calories, and sleep cycles
 
+### 🔹 [Two visualisations on public videogame sales data using Tableau](https://public.tableau.com/app/profile/hexe/viz/GameSales_17513967623470/Dashboard2)
+
 ### Check back for more projects currently in progress!
 ---
 

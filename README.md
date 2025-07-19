@@ -10,7 +10,6 @@ I’m building a tech-focused career and portfolio that reflect my analytical mi
 - 🎓 Background in pharmaceutical science, QA game testing, and data analysis
 - 🧪 Former team lead for Google project via CPL (data evaluation)
 - 💻 Now focused on gaining cybersecurity skills
-- 🐱 Remote-work advocate & full-time cat caretaker
 
 ---
 

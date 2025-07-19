@@ -3,7 +3,7 @@
 I'm Denise — a certified Data Analyst with a science background and a passion for tech.
 I bring cross-industry experience in QA testing, supervisory management, and data analysis. My portfolio includes a full R case study using Fitbit data and interactive visualizations of global game sales.
 
-I'm currently studying for the CompTIA Network+ Certification and developing practical cybersecurity skills through TryHackMe — follow my progress [here](https://tryhackme.com/p/denisebehrmann). I am also proficient in R, SQL, Tableau, Python, basic HTML, Linux terminal operations, and network analysis using Wireshark.
+I'm currently focusing on the CompTIA Network+ Certification and developing practical cybersecurity skills through TryHackMe — follow my progress [here](https://tryhackme.com/p/denisebehrmann). I am also proficient in R, SQL, Tableau, Python, basic HTML, Linux terminal operations, and network analysis using Wireshark.
 
 ---
 

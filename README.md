@@ -1,8 +1,9 @@
 ## 👩‍💻 Denise Behrmann | Data Analyst & Cybersecurity Learner
 
-I'm Denise — I have a background in science and QA testing, with experience leading data evaluation teams and working across industries. I recently completed the Google Data Analytics Certificate and created a full R case study using Fitbit data. Currently studying for CompTIA Network+ Certification, and learning practical cyber skills at tryhackme.com - you can follow my progress [here](https://tryhackme.com/p/denisebehrmann).
+I'm Denise — a certified Data Analyst with a science background and a passion for tech.
+I bring cross-industry experience in QA testing, supervisory management, and data analysis. My portfolio includes a full R case study using Fitbit data and interactive visualizations of global game sales.
 
-I’m building a tech-focused career and portfolio that reflect my analytical mindset and love of hands-on learning. I’m especially interested in remote work.
+I'm currently studying for the CompTIA Network+ Certification and developing practical cybersecurity skills through TryHackMe — follow my progress [here](https://tryhackme.com/p/denisebehrmann). I am also proficient in R, SQL, Tableau, Python, basic HTML, Linux terminal operations, and network analysis using Wireshark.
 
 ---
 
@@ -17,6 +18,9 @@ I’m building a tech-focused career and portfolio that reflect my analytical mi
 
 **Data & Analysis**  
 `SQL` · `Excel` · `Google Sheets` · `Tableau` · `R` · `ggplot2` · `dplyr`
+
+**Cybersecurity & Tools**
+Python · HTML (basic) · Linux terminal · Wireshark · TryHackMe · CompTIA Network+ (in progress)
 
 **Soft Skills**  
 Analytical · Self-directed · Team leadership · Bilingual (German & English)
